@@ -1,6 +1,6 @@
 # Seismic Risk Client
 
-[![GitHub contributors](https://img.shields.io/github/contributors/code4romania/standard-repo-template.svg?style=for-the-badge)](https://github.com/code4romania/standard-repo-template/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/standard-repo-template.svg?style=for-the-badge)](https://github.com/code4romania/standard-repo-template/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
+[![GitHub contributors](https://img.shields.io/github/contributors/code4romania/seismic-risc-client.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc-client/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/seismic-risc-client.svg?style=for-the-badge)](https://github.com/code4romania/seismic-risc-client/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/MPL-2.0)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -35,7 +35,7 @@ If you would like to contribute to one of our repositories, first identify the s
 
 Our collaboration model [is described here](.github/CONTRIBUTING.MD).
 
-We don't have a specific set of coding guidelines, so just follow the way the code was written until now, if in doubt, you can use [Google's style guide](http://google.github.io/styleguide/pyguide.html).
+We don't have a specific set of coding guidelines, so just follow the way the code was written until now, if in doubt, you can use [Google's style guide](https://google.github.io/styleguide/jsguide.html).
 
 ## Built With
 

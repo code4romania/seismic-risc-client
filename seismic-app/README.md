@@ -1,5 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Use mock data API
+
+db.json contains buildings data
+
+```
+npm install -g json-server
+json-server --watch db.json
+```
+
+## Map
+
+To view the map, an [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key) is needed
+Edit .env with your API key
+
+```
+REACT_APP_GOOGLE_MAPS_KEY=KEY_GOES_HERE
+
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
