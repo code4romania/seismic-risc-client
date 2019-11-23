@@ -76,7 +76,6 @@ const Map = () => {
   if (loading) return 'Loading...';
 
   const filterResult = () => {
-    console.log(filter);
     if (filter === 'ALL') {
       return result;
     } else {
