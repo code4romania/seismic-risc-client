@@ -29,7 +29,7 @@ h1 {
   align-items: center;
   justify-content: center;
 
-  a {
+  button {
     font-family: 'Titillium Web', sans-serif;
     font-style: normal;
     font-weight: 600;
@@ -39,6 +39,9 @@ h1 {
     align-items: center;
     text-decoration-line: underline;
     color: #21409A;
+    background: none;
+    border: none;
+    cursor: pointer;
   }
 }
 

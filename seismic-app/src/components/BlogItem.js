@@ -12,7 +12,7 @@ const getColumnSize = (size) => {
 const BlogItem = ({ size, src, headline }) => (
   <Col xs={24} sm={12} md={getColumnSize(size)}>
     <div className="blog-item">
-      <img src={src} />
+      <img src={src} alt={headline} />
       <div className="blog-meta">
         <p>{headline}</p>
       </div>
