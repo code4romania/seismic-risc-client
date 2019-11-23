@@ -1,7 +1,7 @@
 import React from 'react';
 import GoogleMapReact from 'google-map-react';
 
-import api from '../api';
+import api from '../../api';
 
 import RiskCategoryOnePin from './assets/RiskCategoryOnePin.svg';
 import RiskCategoryTwoPin from './assets/RiskCategoryTwoPin.svg';
