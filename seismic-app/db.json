@@ -4,7 +4,7 @@
       "model": "map_app.building",
       "pk": 70,
       "fields": {
-        "risk_category": "RS III",
+        "risk_category": "U3",
         "registration_number": 2,
         "lat": 44.41339,
         "lng": 26.146,
@@ -29,7 +29,7 @@
       "model": "map_app.building",
       "pk": 71,
       "fields": {
-        "risk_category": "RS II",
+        "risk_category": "U2",
         "registration_number": 4,
         "lat": 44.40553,
         "lng": 26.186,
@@ -54,7 +54,7 @@
       "model": "map_app.building",
       "pk": 72,
       "fields": {
-        "risk_category": "RS I",
+        "risk_category": "U1",
         "registration_number": 2,
         "lat": 44.42556,
         "lng": 26.176,
@@ -79,7 +79,7 @@
       "model": "map_app.building",
       "pk": 73,
       "fields": {
-        "risk_category": "N/A",
+        "risk_category": "U1",
         "registration_number": 11,
         "lat": 44.39556,
         "lng": 26.156,
