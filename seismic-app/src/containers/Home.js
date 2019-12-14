@@ -11,6 +11,7 @@ const Home = () => (
         Edit <code>src/App.js</code> and save to reload.
       </p>
       <LinkButton to="/blog" type="primary">Blog</LinkButton>
+      <LinkButton to="/admin/cms/page" type="primary">Admin</LinkButton>
       <a
         className="App-link"
         href="https://reactjs.org"

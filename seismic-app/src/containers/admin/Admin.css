@@ -1,0 +1,40 @@
+
+
+.ant-layout-header,
+.ant-layout-footer {
+  padding: 0;
+  background: #777171;
+  color: #fff;
+}
+
+.logo {
+  background: white;
+}
+
+.ant-layout-footer {
+  line-height: 1.5;
+}
+
+.ant-layout-sider {
+  color: #fff;
+  background: white !important;
+  height: 100vh;
+  line-height: 120px;
+}
+
+.content {
+  height: 100%;
+}
+
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background: #777171 !important;
+}
+
+.ant-menu {
+  background: #777171;
+}
+
+.ant-layout-content {
+  height: 100vh;
+  color: #000;
+}
