@@ -1,5 +1,10 @@
-import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import React from 'react';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
+import './styles/theme.scss';
 import Home from "./containers/Home";
 import Blog from "./containers/Blog";
 import Footer from "./components/Footer";
