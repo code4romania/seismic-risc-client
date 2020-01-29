@@ -5,8 +5,8 @@ import {
   Route
 } from "react-router-dom";
 import './styles/theme.scss';
-import Home from "./containers/Home";
-import Blog from "./containers/Blog";
+import Home from "./containers/home";
+import Blog from "./containers/blog";
 import Footer from "./components/Footer";
 import Terms from "./containers/Terms";
 import Policy from "./containers/Policy";
