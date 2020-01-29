@@ -1,12 +1,8 @@
-import React from 'react';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route
-} from "react-router-dom";
-import './styles/theme.scss';
-import Home from "./containers/Home";
-import Blog from "./containers/Blog";
+import React from "react"
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
+import Home from "./containers/home"
+import Blog from "./containers/blog"
+
 
 function App() {
   return (
@@ -20,7 +16,7 @@ function App() {
         </Route>
       </Switch>
     </Router>
-  );
+  )
 }
 
-export default App;
+export default App
