@@ -3,11 +3,16 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  float: left;
+  padding-right: 32px;
+}
+
+.App-menu {
+  line-height: 64px;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #fff;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
