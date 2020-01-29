@@ -30,7 +30,7 @@ function App() {
       </Switch>
       <Footer />
     </Router>
-  );
+  )
 }
 
-export default App;
+export default App
