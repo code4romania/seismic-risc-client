@@ -1,3 +1,5 @@
+:warning: **This repository is currently not accepting contributions. All the code for the Seismic Risc project has been moved to [https://github.com/code4romania/seismic-risc](https://github.com/code4romania/seismic-risc) and work continues there.**
+
 # Seismic Risk Client
 
 [![Datree](https://s3.amazonaws.com/catalog.static.datree.io/datree-badge-20px.svg)](https://datree.io/?src=badge) [![GitHub contributors](https://img.shields.io/github/contributors/code4romania/seismic-risc-client.svg)](https://github.com/code4romania/seismic-risc-client/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/code4romania/seismic-risc-client.svg)](https://github.com/code4romania/seismic-risc-client/commits/master) [![License: MPL 2.0](https://img.shields.io/badge/license-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
